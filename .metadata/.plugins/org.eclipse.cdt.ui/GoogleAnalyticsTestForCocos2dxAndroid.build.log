@@ -1,0 +1,11 @@
+20:47:18 **** Incremental Build of configuration Release for project GoogleAnalyticsTestForCocos2dxAndroid ****
+python /Users/ahmed/Documents/IphoneApps/GoogleAnalytics/GoogleAnalyticsTestForCocos2dxAndroid/proj.android/build_native.py -b release all 
+make: Entering directory `/Users/ahmed/Documents/IphoneApps/GoogleAnalytics/GoogleAnalyticsTestForCocos2dxAndroid/proj.android'
+[armeabi] Install        : libcocos2dcpp.so => libs/armeabi/libcocos2dcpp.so
+make: Leaving directory `/Users/ahmed/Documents/IphoneApps/GoogleAnalytics/GoogleAnalyticsTestForCocos2dxAndroid/proj.android'
+We will remove this script next version,you should use cocos console to build android project.
+
+The Selected NDK toolchain version was 4.9 !
+
+20:47:28 Build Finished (took 10s.172ms)
+
